@@ -7,7 +7,7 @@
     "ignored_packages":
     [
     ],
-    //"hot_exit": true,
+    "hot_exit": true,
     "remember_open_files": true,
     "show_encoding": true,
     "show_definitions": false,
