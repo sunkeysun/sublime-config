@@ -1,2 +1,2 @@
 # sublime-config
-Sublime 配置备份
+Sublime 个人配置备份
